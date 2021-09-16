@@ -1,2 +1,2 @@
 Exploratory Data Analysis - Retail
-Task 2: Perform 'Exploratory Data Analysis' on dataset 'SampleSupertore'.
+Task 3: Perform 'Exploratory Data Analysis' on dataset 'SampleSupertore'.
