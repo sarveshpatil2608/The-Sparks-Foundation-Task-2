@@ -1,1 +1,2 @@
-# The-Sparks-Foundation-Task-2
+Exploratory Data Analysis - Retail
+Task 2: Perform 'Exploratory Data Analysis' on dataset 'SampleSupertore'.
